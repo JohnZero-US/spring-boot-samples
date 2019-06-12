@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fed56bf-9406-444a-b47f-828a275a0758" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-rest/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-logback/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-traditional/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-cassandra/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jooq/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-webservices/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-aop/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-tomcat-ssl/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-custom-layout/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-reactive-oauth2-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-actuator-noweb/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-profile/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-actuator/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-reactive-oauth2-resource-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-secure/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-couchbase/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-liquibase/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-tomcat-multi-connectors/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-oauth2-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-groovy-templates/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-freemarker/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-integration/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-xml/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-ant/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jetty-jsp/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-parent-context/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-websocket-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-static/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-neo4j/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-method-security/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-secure-custom/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-oauth2-resource-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-junit-jupiter/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-atmosphere/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-amqp/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-jsp/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-webflux/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-animated-banner/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-websocket-tomcat/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-actuator-custom-security/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jta-bitronix/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-mustache/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-secure-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-web-ui/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-property-validation/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-cache/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-devtools/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-flyway/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-war/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-test-nomockito/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-solr/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-session-webflux/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jta-jndi/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-hateoas/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-secure-webflux/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jta-atomikos/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-undertow-ssl/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-tomcat-jsp/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-testng/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-activemq/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-redis/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-servlet/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jersey/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-tomcat/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-secure/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-actuator-ui/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-websocket-undertow/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jetty-ssl/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-batch/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-simple/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-session/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-data-ldap/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-kafka/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-actuator-log4j2/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-sample-undertow/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>${revision}</find>
+      <find>${basedir}/../..</find>
+      <find>${basedir}/..</find>
+      <find>${basedir}</find>
+      <find>basedir</find>
+      <find>disable.checks</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>2.1.5.RELEASE</replace>
+      <replace>${basedir}/..</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-kafka/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="2583" />
+    <option name="height" value="1404" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.kafka:spring-kafka:2.2.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.kafka:spring-kafka:2.2.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-kafka-2.2.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.kafka:spring-kafka:2.2.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-kafka-2.2.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.kafka:spring-kafka:2.2.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-kafka-2.2.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/nodejs/node.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SampleKafkaApplication">
+    <configuration name="SampleActiveMQApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-activemq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.activemq.SampleActiveMQApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.actuator.SampleActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleActuatorCustomSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-actuator-custom-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.actuator.customsecurity.SampleActuatorCustomSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleActuatorLog4J2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-actuator-log4j2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.actuator.log4j2.SampleActuatorLog4J2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleActuatorNoWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-actuator-noweb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.actuator.noweb.SampleActuatorNoWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleActuatorUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-actuator-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.actuator.ui.SampleActuatorUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAmqpSimpleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-amqp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.amqp.SampleAmqpSimpleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAnimatedBannerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-animated-banner" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.animated.SampleAnimatedBannerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.aop.SampleAopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAtmosphereApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-atmosphere" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.atmosphere.SampleAtmosphereApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAtomikosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jta-atomikos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.atomikos.SampleAtomikosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleBatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-batch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.batch.SampleBatchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleBitronixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jta-bitronix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.bitronix.SampleBitronixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.cache.SampleCacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleCassandraApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-cassandra" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.cassandra.SampleCassandraApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleCouchbaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-couchbase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.couchbase.SampleCouchbaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleDataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.jdbc.SampleDataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.jpa.SampleDataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleDataRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.rest.SampleDataRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleDevToolsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-devtools" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.devtools.SampleDevToolsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.elasticsearch.SampleElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleFlywayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-flyway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.flyway.SampleFlywayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleGroovyTemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-groovy-templates" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.groovytemplates.SampleGroovyTemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleHateoasApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-hateoas" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.hateoas.SampleHateoasApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleIntegrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-integration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.integration.SampleIntegrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJerseyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jersey" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jersey.SampleJerseyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJettyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jetty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jetty.SampleJettyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJettyJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jetty-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jetty.jsp.SampleJettyJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJettySslApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jetty-ssl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jetty.ssl.SampleJettySslApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJettyWebSocketsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-websocket-jetty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="samples.websocket.jetty.SampleJettyWebSocketsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJooqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jooq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jooq.SampleJooqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jpa.SampleJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleJunitJupiterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-junit-jupiter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.SampleJunitJupiterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.kafka.SampleKafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleLdapApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-ldap" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.ldap.SampleLdapApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleLiquibaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-liquibase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.liquibase.SampleLiquibaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleLogbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.logback.SampleLogbackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleMethodSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-method-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.security.method.SampleMethodSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleMongoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.mongo.SampleMongoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleNeo4jApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-neo4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.neo4j.SampleNeo4jApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleOAuth2ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-oauth2-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.oauth2.client.SampleOAuth2ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleOauth2ResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-oauth2-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.oauth2.resource.SampleOauth2ResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleProfileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-profile" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.profile.SampleProfileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SamplePropertyValidationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-property-validation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.propertyvalidation.SamplePropertyValidationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.quartz.SampleQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleReactiveOAuth2ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-reactive-oauth2-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.oauth2.client.SampleReactiveOAuth2ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleReactiveOAuth2ResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-reactive-oauth2-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.oauth2.resource.SampleReactiveOAuth2ResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.redis.SampleRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSecureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-secure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.secure.SampleSecureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSecureWebFluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-secure-webflux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.secure.webflux.SampleSecureWebFluxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-servlet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.servlet.SampleServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSessionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-session" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.session.SampleSessionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSessionWebFluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-session-webflux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.session.SampleSessionWebFluxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSimpleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-simple" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.simple.SampleSimpleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSolrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-data-solr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.data.solr.SampleSolrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.test.SampleTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTestNGApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-testng" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.testng.SampleTestNGApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTestNoMockitoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-test-nomockito" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.testnomockito.SampleTestNoMockitoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTomcatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-tomcat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.tomcat.SampleTomcatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTomcatJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-tomcat-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.tomcat.jsp.SampleTomcatJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTomcatSslApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-tomcat-ssl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.tomcat.ssl.SampleTomcatSslApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTomcatTwoConnectorsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-tomcat-multi-connectors" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.tomcat.multiconnector.SampleTomcatTwoConnectorsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTomcatWebSocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-websocket-tomcat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="samples.websocket.tomcat.SampleTomcatWebSocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTraditionalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-traditional" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.traditional.SampleTraditionalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleUndertowApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-undertow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.undertow.SampleUndertowApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleUndertowSslApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-undertow-ssl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.undertow.ssl.SampleUndertowSslApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleUndertowWebSocketsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-websocket-undertow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="samples.websocket.undertow.SampleUndertowWebSocketsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.war.SampleWarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebFluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-webflux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.webflux.SampleWebFluxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebFreeMarkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.freemarker.SampleWebFreeMarkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.jsp.SampleWebJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebMustacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-mustache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.mustache.SampleWebMustacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebSecureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-secure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.web.secure.SampleWebSecureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebSecureCustomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-secure-custom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.web.secure.custom.SampleWebSecureCustomApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebSecureJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-secure-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.web.secure.jdbc.SampleWebSecureJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-webservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.webservices.SampleWebServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebStaticApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-static" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.web.staticcontent.SampleWebStaticApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleWebUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-sample-web-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sample.web.ui.SampleWebUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fed56bf-9406-444a-b47f-828a275a0758" name="Default Changelist" comment="" />
+      <created>1560317904148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560317904148</updated>
+      <workItem from="1560317906904" duration="1442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1442000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329602" />
+      <window_info anchor="bottom" id="Docker" weight="0.329602" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" weight="0.329602" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39925373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Jms Messenger" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.5.RELEASE/spring-boot-starter-parent-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-xml/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.6.RELEASE/spring-kafka-2.2.6.RELEASE.jar!/org/springframework/kafka/core/KafkaTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-data-rest/src/main/java/sample/data/rest/service/CityRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-kafka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-kafka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-kafka/src/main/java/sample/kafka/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-kafka/src/main/java/sample/kafka/SampleMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-kafka/src/main/java/sample/kafka/SampleKafkaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.6.RELEASE/spring-kafka-2.2.6.RELEASE-sources.jar!/org/springframework/kafka/core/KafkaTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="190" column="46" selection-start-line="190" selection-start-column="46" selection-end-line="190" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-sample-kafka/src/main/java/sample/kafka/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#1120#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3476">
+          <caret line="243" column="31" lean-forward="true" selection-start-line="243" selection-start-column="17" selection-end-line="243" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
